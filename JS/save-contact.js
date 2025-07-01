@@ -38,13 +38,15 @@ function downloadVCard() {
   const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:Ahmad Uzair Chaudhary
+FN:YAHYA MHD FATEHI HILALI
 TITLE:Sales Manager
 ORG:RISE Properties
+TEL;TYPE=WORK,VOICE:+971559351941‬‬‬‬‬‬
+TEL;TYPE=WORK,VOICE:+971526113198‬‬‬‬‬‬
 TEL;TYPE=WORK,VOICE:+97145665109
-EMAIL:Ahmed.Uzair@riseproperties.ae
+EMAIL:Yahiya@riseproperties.ae
 URL:http://www.riseproperties.ae
-ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
+ADR;TYPE=WORK:;;PO Box No 181792, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
 END:VCARD
   `.trim();
 
